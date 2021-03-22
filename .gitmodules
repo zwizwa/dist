@@ -1,0 +1,6 @@
+[submodule "deps/uc_tools"]
+	path = deps/uc_tools
+	url = https://github.com/zwizwa/uc_tools.git
+[submodule "deps/openocd"]
+	path = deps/openocd
+	url = https://github.com/zwizwa/openocd.git
