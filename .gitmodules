@@ -4,3 +4,6 @@
 [submodule "deps/openocd"]
 	path = deps/openocd
 	url = https://github.com/zwizwa/openocd.git
+[submodule "deps/exo"]
+	path = deps/exo
+	url = https://github.com/zwizwa/libopencm3.git
