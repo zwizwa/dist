@@ -7,3 +7,6 @@
 [submodule "deps/exo"]
 	path = deps/libopencm3
 	url = https://github.com/zwizwa/libopencm3.git
+[submodule "deps/blackmagic"]
+	path = deps/blackmagic
+	url = https://github.com/zwizwa/blackmagic.git
